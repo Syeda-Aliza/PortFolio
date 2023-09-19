@@ -81,7 +81,7 @@ section{
 }
 
 .home-image img{
-    width: 45vw;
+    width: 50vw;
     animation: floatImage .4s ease-in-out infinite ;
 }
 @keyframes floatImage {
@@ -168,7 +168,7 @@ span{
 }
 
 .about-image img{
-    width:40vw;
+    width: 50vw;
 }
 
 .heading {
@@ -182,11 +182,11 @@ span{
 }
 
 .about-content h3{
-    font-size: 2.6rem;
+    font-size: 3rem;
 }
 
 .about-content p{
-    font-size: 2rem;
+    font-size: 2.7rem;
     margin: 2rem 0 3rem;
 }
 
